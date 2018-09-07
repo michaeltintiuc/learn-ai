@@ -7,3 +7,4 @@
 - SciPy
 - scikit-learn
 - matplotlib
+- Tkinter
